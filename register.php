@@ -13,7 +13,7 @@
 		<body>
 		
 		
-		<div align="justify">
+		<div align="center">
 			<h3>Registration Form</h3>
 				<?php
 				
